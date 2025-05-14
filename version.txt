@@ -1,2 +1,4 @@
-1.0.1
-OTAWebUpdater-test-ABC2
+{
+  "version": "1.1.0",
+  "OTAWebUpdater-test-ABC2"
+}
